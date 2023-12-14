@@ -19,4 +19,4 @@ api地址:`https://api.nice2cu.cc/?type=`
 
 api地址+平台名称
 
-如：获取百度热搜，访问："https://api.nice2cu.cc/?type=baidu"
+如：获取百度热搜，访问："https://api.nice2cu.cc/?type=baidu" 
