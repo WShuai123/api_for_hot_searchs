@@ -14,9 +14,17 @@ api地址:`https://api.nice2cu.cc/?type=`
 + 少数派
 + 36kr
 + ACFun
++ 腾讯新闻(*)
++ GitHub
++ 懂球帝
++ 吾爱破解
++ 安全客
++ 易车网
 
 ## 使用方法
 
-api地址+平台名称
+1. 如：获取百度热搜，访问："https://api.nice2cu.cc/?type=baidu" 
 
-如：获取百度热搜，访问："https://api.nice2cu.cc/?type=baidu" 
+2. https://api.nice2cu.cc/***.php
+
+> 全写完之后再进行整合
