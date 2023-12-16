@@ -8,6 +8,7 @@
 api地址:
 
 + 百度: <https://api.nice2cu.cc/?type=baidu>
++ 百度贴吧: <https://api.nice2cu.cc/tieba.php>
 + 微博: <https://api.nice2cu.cc/?type=weibo>
 + 知乎: <https://api.nice2cu.cc/?type=zhihu>
 + 哔哩哔哩: 
@@ -27,3 +28,4 @@ api地址:
 + 安全客: <https://api.nice2cu.cc/anquanke.php>
 + 易车网: <https://api.nice2cu.cc/yichewang.php>
 + V2EX: <https://api.nice2cu.cc/v2ex.php>
++ 虎扑(篮球、足球、步行街): <https://api.nice2cu.cc/hupu.php>
