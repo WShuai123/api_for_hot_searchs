@@ -15,6 +15,7 @@ api地址:
     + 热搜榜: <https://api.nice2cu.cc/?type=bilihot>
     + 全站日榜: <https://api.nice2cu.cc/?type=biliall>
 + 抖音: <https://api.nice2cu.cc/?type=douyin>
++ 今日头条: <https://api.nice2cu.cc/jinritoutiao.php>
 + 历史上的今天: <https://api.nice2cu.cc/?type=history>
 + CSDN: <https://api.nice2cu.cc/?type=csdn>
 + 少数派: <https://api.nice2cu.cc/?type=sspai>
