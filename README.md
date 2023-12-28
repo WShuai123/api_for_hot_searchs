@@ -30,3 +30,4 @@ api地址:
 + 易车网: <https://api.nice2cu.cc/yichewang.php>
 + V2EX: <https://api.nice2cu.cc/v2ex.php>
 + 虎扑(篮球、足球、步行街): <https://api.nice2cu.cc/hupu.php>
++ 360搜索: <https://api.nice2cu.cc/360search.php>
