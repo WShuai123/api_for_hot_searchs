@@ -1,35 +1,38 @@
-> 目前代码用PHP实现，过于简陋和粗暴。等有时间重构后再开源代码
+> 目前代码用PHP实现，由于不太会PHP，所以代码过于简陋和粗暴。等有时间再重构。
+>
+> 不提供直接调用的网址了，总是被攻击。
+>
+> 自己部署在自己的服务器上就行。
 
 ## 说明
 
 通过api获取网站的热搜或者热门内容，返回json格式的信息。
 
 > 不断更新中。。。
-> 全写完后再进行整合，整合到一个url中。整合后的url:<https://api.nice2cu.cc/all.php>
 
-api地址:
+目前有以下平台：
 
-+ 百度: <https://api.nice2cu.cc/?type=baidu>
-+ 百度贴吧: <https://api.nice2cu.cc/tieba.php>
-+ 微博: <https://api.nice2cu.cc/?type=weibo>
-+ 知乎: <https://api.nice2cu.cc/?type=zhihu>
++ 百度
++ 百度贴吧
++ 微博
++ 知乎
 + 哔哩哔哩: 
-    + 热搜榜: <https://api.nice2cu.cc/?type=bilihot>
-    + 全站日榜: <https://api.nice2cu.cc/?type=biliall>
-+ 抖音: <https://api.nice2cu.cc/?type=douyin>
-+ 今日头条: <https://api.nice2cu.cc/jinritoutiao.php>
-+ 历史上的今天: <https://api.nice2cu.cc/?type=history>
-+ CSDN: <https://api.nice2cu.cc/?type=csdn>
-+ 少数派: <https://api.nice2cu.cc/?type=sspai>
-+ 36kr: <https://api.nice2cu.cc/?type=kr>
-+ IT之家: <https://api.nice2cu.cc/?type=ithome>
-+ ACFun: <https://api.nice2cu.cc/?type=acfun>
-+ 腾讯新闻: <https://api.nice2cu.cc/qqnews.php>
-+ GitHub: <https://api.nice2cu.cc/GitHub.php>
-+ 懂球帝: <https://api.nice2cu.cc/dongqiudi.php>
-+ 吾爱破解: <https://api.nice2cu.cc/wuaipojie.php>
-+ 安全客: <https://api.nice2cu.cc/anquanke.php>
-+ 易车网: <https://api.nice2cu.cc/yichewang.php>
-+ V2EX: <https://api.nice2cu.cc/v2ex.php>
-+ 虎扑(篮球、足球、步行街): <https://api.nice2cu.cc/hupu.php>
-+ 360搜索: <https://api.nice2cu.cc/360search.php>
+    + 热搜榜
+    + 全站日榜
++ 抖音
++ 今日头条
++ 历史上的今天
++ CSDN
++ 少数派
++ 36kr
++ IT之家
++ ACFun
++ 腾讯新闻
++ GitHub
++ 懂球帝
++ 吾爱破解
++ 安全客
++ 易车网
++ V2EX
++ 虎扑(篮球、足球、步行街)
++ 360搜索
