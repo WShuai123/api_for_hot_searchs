@@ -4,6 +4,8 @@
 >
 > 自己部署在自己的服务器上就行。
 
+> Golang版：https://github.com/WShuai123/api-for-hot-search-golang
+
 ## 说明
 
 通过api获取网站的热搜或者热门内容，返回json格式的信息。
